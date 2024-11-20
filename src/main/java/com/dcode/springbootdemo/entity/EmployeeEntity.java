@@ -1,4 +1,4 @@
-package com.dcode.springbootdemo.employee;
+package com.dcode.springbootdemo.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

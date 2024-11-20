@@ -1,6 +1,6 @@
 package com.dcode.springbootdemo.repository;
 
-import com.dcode.springbootdemo.employee.EmployeeEntity;
+import com.dcode.springbootdemo.entity.EmployeeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
